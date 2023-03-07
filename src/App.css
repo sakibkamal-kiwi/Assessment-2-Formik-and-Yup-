@@ -1,0 +1,124 @@
+* {
+  text-align: center;
+}
+.home-style {
+  align-items: center;
+  background-color: red;
+  background: url("https://media.istockphoto.com/id/483731108/photo/technology-and-coffee-on-a-wooden-table.jpg?b=1&s=170667a&w=0&k=20&c=_CO1HjY597xwNn7SASXmYE92TMKHcSGC-A-ORKY0uOE=");
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  height: 45rem;
+  width: 80rem;
+}
+.TextField {
+  width: 20rem;
+}
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+
+.App .openModalBtn {
+  width: 200px;
+  height: 40px;
+  border: none;
+  border-radius: 6px;
+  background-color: cornflowerblue;
+  color: white;
+  cursor: pointer;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+p {
+  color: red;
+}
+* {
+  /* align-items: center;  */
+  /* text-align: center; */
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.home {
+  text-align: center;
+}
+
+p {
+  color: red;
+  font-size: large;
+  font-weight: 300;
+}
+.user-style {
+  background-color: aqua;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 20%;
+}
+.login-logo {
+  height: 40%;
+  width: 80%;
+
+  margin-left: 40%;
+}
+.eye-icon {
+  position: absolute;
+  top: 138px;
+  right: 90px;
+  z-index: 1000;
+  cursor: pointer;
+}
+.model-top-style {
+  margin-top: 150px;
+}
+.model-style {
+  background-color: aqua;
+  height: 30rem;
+  width: 35rem;
+}
+.model-body-style {
+  margin: 4rem;
+}
+
+label {
+  font-size: large;
+}
+.register-form-style {
+  width: 40%;
+  margin-left: 30%;
+  background-color: lightblue;
+}
+Form.Control {
+  width: 50%;
+}
+
+/* context style   */
+
+h6 {
+  float: left;
+}
+h3 {
+  float: right;
+  margin-right: 30%;
+}
+.button-edit {
+  color: red;
+  height: 50px;
+  width: 500px;
+  display: flex;
+  margin-left: 500px;
+}
+.button-edit img {
+  width: 20%;
+  height: 40px;
+  margin-right: 10px;
+}
+.button-edit button {
+  width: 60%;
+  background-color: aquamarine;
+ border-radius: 20px;
+}

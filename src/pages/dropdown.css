@@ -1,0 +1,17 @@
+.box-style{
+    width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  float: left;
+  margin-top: 5rem;
+
+}
+.dropdown-style{
+  background-color: blanchedalmond;
+
+}
+.text-style{
+    background-color: lightcyan;
+   
+}
